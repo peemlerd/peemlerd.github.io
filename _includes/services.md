@@ -2,8 +2,8 @@
 
 
 <ul style="margin:0 0 5px;">
-  <li> Heinz College <a href="https://www.cmu.edu/stugov/gsa/"><autocolor> PhD student representative  </autocolor>, Carnegie Mellon University 2023-present </a></li>
-  <li> Co-organizer, <a href="http://iccv2021.thecvf.com/"><autocolor> Fairness in Machine Learning Reading Group </autocolor> at Carnegie Mellon University, 2022-23 </autocolor></a></li>
+  <li> Heinz College <a href="https://www.cmu.edu/stugov/gsa/"><autocolor> PhD student representative  </autocolor>, Carnegie Mellon University 2023-present </li>
+  <li> Co-organizer, <a href="http://iccv2021.thecvf.com/"><autocolor> Fairness in Machine Learning Reading Group </autocolor> at Carnegie Mellon University, 2022-23 </li>
 </ul>
 
 ## Awards / Competition
