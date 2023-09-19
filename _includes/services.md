@@ -1,16 +1,15 @@
-## Services
+## Professional Activities
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><a href="https://www.cmu.edu/stugov/gsa/"><autocolor> PhD student representative, Heinz College 2023-present </autocolor></a></li>
+  <li><a href="http://iccv2021.thecvf.com/"><autocolor> Co-organizer, Fairness in Machine Learning Reading Group at Carnegie Mellon University, 2022-23 </autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+## Awards / Competition
+<ul style="margin:0 0 5px;">
+  <li><a href="https://devpost.com/software/follow-the-fun"><autocolor>Winner (Games for Health track), Pitt Challenge Health Hackathon, 2023  </autocolor></a></li>
+  <li><a href="https://www.cyber.pitt.edu/events/hacking4humanity"><autocolor> First Runner-up, Hacking4Humanity Policy Hackathon, 2023 </autocolor></a></li>
 </ul>
+
+
