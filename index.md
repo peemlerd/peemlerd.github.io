@@ -4,23 +4,18 @@ layout: homepage
 
 ## About Me
 
-Welcome to my homepage! I am a PhD candidate in Statistics and Public Policy at Carnegie Mellon University (CMU), working under the supervision of Professor Nynke Niezink and Professor David Choi. 
+Welcome to my homepage! I am a PhD candidate in <a href="https://www.cmu.edu/dietrich/statistics-datascience/academics/phd/statistics-public-policy/index.html"><autocolor> Statistics and Public Policy <autocolor> at Carnegie Mellon University (CMU), working under the supervision of <a href="https://www.stat.cmu.edu/~nynke/"><autocolor> Professor Nynke Niezink </autocolor> and <a href="https://www.andrew.cmu.edu/user/davidch/"><autocolor> Professor David Choi </autocolor>. I am interested in questions in the intersection of causal inference, network science, and public policy. 
 
-Prior to CMU, I studied Mathematics and Computer Science at Swarthmore College where I am fortunate to research with <a href="https://www.cs.swarthmore.edu/~brody/"><autocolor>Professor Joshua Brody </autocolor> and <a href="http://paleo.domains.swarthmore.edu/"><autocolor> Professor Steve Wang </autocolor>. 
-
-I obtained a King's Scholarship from Royal Thai Government. 
+Prior to CMU, I studied Mathematics and Computer Science at Swarthmore College under the <a href="https://en.wikipedia.org/wiki/King%27s_Scholarship_(Thailand)"><autocolor> 
+King's Scholarship <> from the Thai Government. 
 
 ## Research Interests
 
-- **Causal Inference**
-- **Network Science**
+- **Causal Inference** Interference, Semiparametric Theory.
+- **Network Science** Network Evolution, Social Network Analysis.
+- **Machine Learning for Public Policy** 
 
-## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
