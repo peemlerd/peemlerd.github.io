@@ -4,10 +4,11 @@ layout: homepage
 
 ## About Me
 
-Welcome to my homepage! I am a PhD candidate in <a href="https://www.cmu.edu/dietrich/statistics-datascience/academics/phd/statistics-public-policy/index.html"><autocolor> Statistics and Public Policy <autocolor> at Carnegie Mellon University (CMU), working under the supervision of <a href="https://www.stat.cmu.edu/~nynke/"><autocolor> Professor Nynke Niezink </autocolor> and <a href="https://www.andrew.cmu.edu/user/davidch/"><autocolor> Professor David Choi </autocolor>. I am interested in questions in the intersection of causal inference, network science, and public policy. 
+Welcome to my homepage! I am a PhD candidate in <a href="https://www.cmu.edu/dietrich/statistics-datascience/academics/phd/statistics-public-policy/index.html"><autocolor> Statistics and Public Policy </autocolor> at Carnegie Mellon University (CMU), working under the supervision of <a href="https://www.stat.cmu.edu/~nynke/"><autocolor> Professor Nynke Niezink </autocolor> and <a href="https://www.andrew.cmu.edu/user/davidch/"><autocolor> Professor David Choi </autocolor>. 
+I am interested in questions in the intersection of causal inference, network science, and public policy. 
 
 Prior to CMU, I studied Mathematics and Computer Science at Swarthmore College under the <a href="https://en.wikipedia.org/wiki/King%27s_Scholarship_(Thailand)"><autocolor> 
-King's Scholarship <> from the Thai Government. 
+King's Scholarship </autocolor> from the Thai Government. 
 
 ## Research Interests
 
