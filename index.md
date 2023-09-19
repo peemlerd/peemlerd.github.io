@@ -4,12 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Welcome to my homepage! I am a PhD candidate in Statistics and Public Policy at Carnegie Mellon University (CMU), working under the supervision of Professor Nynke Niezink and Professor David Choi. 
+
+Prior to CMU, I studied Mathematics and Computer Science at Swarthmore College where I am fortunate to research with <a href="https://www.cs.swarthmore.edu/~brody/"><autocolor>Professor Joshua Brody </autocolor> and <a href="http://paleo.domains.swarthmore.edu/"><autocolor> Professor Steve Wang </autocolor>. 
+
+I obtained a King's Scholarship from Royal Thai Government. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Causal Inference**
+- **Network Science**
 
 ## News
 
